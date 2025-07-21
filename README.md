@@ -4,7 +4,7 @@ This is a simple yet stylish **Streamlit** web application that provides **real-
 
 ## 🚀 Features
 
-- 🌍 Live weather updates by city name  
+- 🌍 Live weather updates by city name 
 - 📅 5-Day weather forecast  
 - 🌈 Weather condition emojis  
 - 🌙 Light and Dark theme toggle  
