@@ -12,7 +12,7 @@ This is a simple yet stylish **Streamlit** web application that provides **real-
 
 ---
 
-## 🧰 Technologies Used
+## 🧰 Technologies Used 
 
 - [Streamlit](https://streamlit.io/) – for building the interactive UI
 - [OpenWeatherMap API](https://openweathermap.org/current) – for fetching weather and forecast data
