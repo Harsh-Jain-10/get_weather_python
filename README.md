@@ -32,5 +32,5 @@ This is a simple yet stylish **Streamlit** web application that provides **real-
 1. **Clone this repository**
 
 
-git clone https://github.com/yourusername/weather-forecast-app.git
+git clone https://github.com/Harsh-Jain-10/weather-forecast-app.git
 cd weather-forecast-app
