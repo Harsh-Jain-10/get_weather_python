@@ -20,7 +20,7 @@ WEATHER_EMOJIS = {
 }
 
 # API Key (replace with your own key)
-API_KEY = "850e42b8582ea97131bb274c1c3fbfe1"
+API_KEY = "YOUR API KEY"
 
 def fetch_weather(city_name: str) -> dict:
     endpoint = "https://api.openweathermap.org/data/2.5/weather"
@@ -133,3 +133,4 @@ if search and city:
 
 st.markdown("---")
 st.markdown("📡 Powered by [OpenWeatherMap](https://openweathermap.org/)")
+
