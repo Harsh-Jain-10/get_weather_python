@@ -3,7 +3,6 @@
 An award-winning, premium meteorological dashboard featuring live canvas-based atmospheric physics and LLM-powered insights.
 
 ---
-
 ## 📖 Introduction
 
 SkyCast is a flagship **AI Weather Intelligence Platform** designed to offer a cinematic, editorial, and highly immersive weather tracking experience. Moving far beyond generic grid dashboards, SkyCast adapts its entire user interface—including colors, layouts, typography, micro-shadows, and a 60fps canvas particle system—to match the real-time weather of any queried city. 
